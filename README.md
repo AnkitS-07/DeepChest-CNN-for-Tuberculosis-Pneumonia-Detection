@@ -1,4 +1,7 @@
+# DeepChest-CNN-for-Tuberculosis-Pneumonia-Detection
+
 🩺 DeepChest-CNN: Automated Tuberculosis & Pneumonia Detection
+
 🌟 Introduction :-
 
 DeepChest is an AI-powered Convolutional Neural Network (CNN) designed to analyze chest X-rays and automatically classify patients into Normal, Pneumonia, or Tuberculosis categories.
