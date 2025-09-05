@@ -1,13 +1,13 @@
 # DeepChest-CNN-for-Tuberculosis-Pneumonia-Detection
 DeepChest-CNN: Tuberculosis & Pneumonia Detection from Chest X-rays
 
-Introduction ----
+Introduction ------------------------------------------------
 
 DeepChest-CNN is a deep learning project that classifies chest X-rays into three categories: Normal, Pneumonia, and Tuberculosis.
 
 The objective is to demonstrate how AI can assist radiologists by automatically detecting lung conditions, speeding up diagnosis, and reducing human error.
 
-Workflow ----
+Workflow --------------------------------------------------------
 
 Exploratory Data Analysis (EDA)
 
@@ -26,7 +26,7 @@ Visualized training and validation loss/accuracy curves.
 Tested on both single images and batches for practical demonstration.
 
 
-Project Success -----
+Project Success -------------------------------------------------------
 
 Class	Precision	Recall	F1-score
 
@@ -44,7 +44,7 @@ Validation curves indicate no overfitting.
 Confusion matrix shows accurate classification for Normal and Pneumonia, with minor errors for Tuberculosis (due to fewer samples).
 
 
-Highlights ----
+Highlights ------------------------------------------------------
 
 Model demonstrates robust learning and generalization.
 
