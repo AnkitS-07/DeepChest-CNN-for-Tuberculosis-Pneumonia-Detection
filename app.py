@@ -1,3 +1,4 @@
+# check out web app from README.md
 import streamlit as st
 import torch
 import torch.nn as nn
@@ -76,4 +77,5 @@ if uploaded_file is not None:
 st.markdown(
    "<p style='text-align: center; font-size:14px;'> Made with 💡 by <b>Ankit Sarkar</b></p>",
     unsafe_allow_html=True
+
 )
