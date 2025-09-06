@@ -2,6 +2,8 @@
 
 Check out the DeepChest app here: [DeepChest CNN - XRay Diagnosis](https://deepchest-cnn-for-tuberculosis-pneumonia-detection.streamlit.app/)
 
+Check out Project explanation video here:  [Project Explanation - Google Drive](https://drive.google.com/drive/folders/1B0IsftX0BBmqt9GoQiEIBUdf9c4edAa7?usp=sharing)
+
 
 🩺 DeepChest-CNN: Automated Tuberculosis & Pneumonia Detection
 
